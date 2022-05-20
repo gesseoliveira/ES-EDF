@@ -1,0 +1,29 @@
+PIT/Debug/
+UART/Debug/
+GPIO/Debug/
+SPI/Debug/
+IIC/Debug/
+ADC/Debug/
+PWM/Debug/
+FLASH/Debug/
+SYSTEM/Debug/
+Debug/
+PIT/.settings/
+UART/.settings/
+GPIO/.settings/
+SPI/.settings/
+IIC/.settings/
+ADC/.settings/
+PWM/.settings/
+FLASH/.settings/
+.metadata/
+RemoteSystemsTempFiles
+Projeto_Template_Driver
+Projeto_Template_Driver.zip
+<<<<<<< HEAD
+=======
+language.settings.xml
+>>>>>>> master
+.directory
+
+ADC/ADC.elf.launch
