@@ -1,0 +1,6 @@
+.metadata\
+.metadata/
+FreeRTOS/Debug/
+FreeRTOS/Debug
+*.o
+FreeRTOS/Debug/FreeRTOS.elf
