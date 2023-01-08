@@ -18,7 +18,7 @@ Requirements for the software and other tools to build, test and push
 
 This repository must be placed inside the stmcubeide working folder. It consists of 3 folders:
 - DRV: Software layer that manages microcontroller peripherals
-- FreeRTOS: FreeRTOS application that contains the implementation
+- FreeRTOS: FreeRTOS application that contains the ES-EDFimplementation. 
 - COMMON: Folder containing generic files for future applications.
 
 ## Running application
@@ -32,4 +32,7 @@ Before running the example application, it is necessary to import the project. T
 6) Compile and record in the STM32F407 that must be connected to the computer;
 
 For more information to project import, please consult: https://fastbitlab.com/microcontroller-embedded-c-programming-importing-projects-in-to-stm32cubeide-workspace/
+
+## Related works
+- https://ieeexplore.ieee.org/document/9277851/ (freertos kernel evaluation using EDF) 
 
