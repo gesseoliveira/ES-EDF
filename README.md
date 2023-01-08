@@ -30,25 +30,6 @@ Before running the example application, it is necessary to import the project. T
 4) Existing Projects into Workspace
 5) Select the cloned project.
 6) Compile and record in the STM32F407 that must be connected to the computer;
-## Built With
 
-  - [Contributor Covenant](https://www.contributor-covenant.org/) - Used
-    for the Code of Conduct
-  - [Creative Commons](https://creativecommons.org/) - Used to choose
-    the license
+For more information to project import, please consult: https://fastbitlab.com/microcontroller-embedded-c-programming-importing-projects-in-to-stm32cubeide-workspace/
 
-## Authors
-
-  - **Billie Thompson** - *Provided README Template* -
-    [PurpleBooth](https://github.com/PurpleBooth)
-
-See also the list of
-[contributors](https://github.com/PurpleBooth/a-good-readme-template/contributors)
-who participated in this project.
-
-
-## Acknowledgments
-
-  - Hat tip to anyone whose code is used
-  - Inspiration
-  - etc
